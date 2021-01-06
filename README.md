@@ -1,5 +1,8 @@
 # NoiseGenerator
 
+Utilizes quantum RNG to generate noise images
+
+
 Example:
 ```python
 generator = Generator()
